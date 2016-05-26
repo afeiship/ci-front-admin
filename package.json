@@ -1,0 +1,15 @@
+{
+  "name": "ci-front-admin",
+  "version": "0.0.0",
+  "description": "A simple front-admin structure based on CI framework.",
+  "homepage": "https://github.com/afeiship/ci-front-admin",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0"
+  }
+}

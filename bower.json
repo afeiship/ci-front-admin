@@ -1,0 +1,24 @@
+{
+  "name": "ci-front-admin",
+  "description": "A simple front-admin structure based on CI framework.",
+  "main": "dist/ci-front-admin.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/ci-front-admin",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
