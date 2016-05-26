@@ -2,9 +2,12 @@
 A simple front-admin structure based on CI framework.
 
 
-##feature:
+##usage:
++ chmod -R 777 src/*
 + frontend(Front part): render by php (no template)
++ http://ci.com/
 + backend (Admin part): RESTful style + web-admin-ui(AngularJS + AdminLET)
++ http://ci.com/admin/
 
 ##resources:
 + http://www.phperz.com/article/15/0609/61125.html
