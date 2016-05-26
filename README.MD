@@ -3,7 +3,7 @@ A simple front-admin structure based on CI framework.
 
 
 ##usage:
-+ chmod -R 777 src/*
++ `chmod -R 777 src/*`
 + frontend(Front part): render by php (no template)
 + http://ci.com/
 + backend (Admin part): RESTful style + web-admin-ui(AngularJS + AdminLET)
