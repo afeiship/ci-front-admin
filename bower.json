@@ -1,13 +1,15 @@
 {
   "name": "ci-front-admin",
-  "description": "A simple front-admin structure based on CI framework.",
+  "description": "A simple front-admin structure based on CodeIgniter framework.",
   "main": "dist/ci-front-admin.js",
   "authors": [
     "afei"
   ],
   "license": "MIT",
   "keywords": [
-    "next"
+    "CodeIgniter",
+    "front",
+    "admin"
   ],
   "homepage": "https://github.com/afeiship/ci-front-admin",
   "moduleType": [

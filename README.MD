@@ -1,5 +1,5 @@
 #ci-front-admin
-A simple front-admin structure based on CI framework.
+A simple front-admin structure based on CodeIgniter framework.
 
 
 ##usage:

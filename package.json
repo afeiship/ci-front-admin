@@ -1,7 +1,7 @@
 {
   "name": "ci-front-admin",
   "version": "0.0.0",
-  "description": "A simple front-admin structure based on CI framework.",
+  "description": "A simple front-admin structure based on CodeIgniter framework.",
   "homepage": "https://github.com/afeiship/ci-front-admin",
   "author": {
     "name": "afei",
