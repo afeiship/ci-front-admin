@@ -14,6 +14,7 @@ A simple front-admin structure based on CodeIgniter framework.
 
 
 ##resources:
++ https://github.com/afeiship/web-admin-ui
 + http://www.phperz.com/article/15/0609/61125.html
 + https://github.com/chriskacerguis/codeigniter-restserver
 + http://www.chenyudong.com/archives/codeigniter-in-nginx-and-url-rewrite.html
